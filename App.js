@@ -9,6 +9,8 @@ import CourseDetails from "./src/screens/CourseDetails";
 import Html from './src/api/Html';
 
 export default function App() {
+
+  {/* navigations */}
   const Stack = createNativeStackNavigator();
   return (
     <NavigationContainer>
